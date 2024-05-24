@@ -131,3 +131,12 @@ Memiliki strategi fallback dan disaster recovery, serta melakukan backup secara 
 
 # Alasan menggunakan teknik risk storming:
 Risk Storming merupakan sebuah teknik yang dilakukan secara kolaboratif di lingkungan perancangan software architecture. Teknik ini melalui beberapa tahapan yaitu identifikasi resiko, kategorisasi resiko, penilaian, mitigasi, dan tindak lanjut resiko. Teknik ini melibatkan berbagai aspek tim yang beragam agar bisa melihat lingkup resiko secara luas.
+
+![image](https://github.com/HoomGroomA-5/.github/assets/119854906/ac83ad5f-7d99-4344-ae80-c305fb13a26a)
+
+![image](https://github.com/HoomGroomA-5/.github/assets/119854906/f7b76912-52ff-44ef-a8ed-077937f45954)
+![image](https://github.com/HoomGroomA-5/.github/assets/119854906/4899077e-ec1f-4a16-9703-c9e86deeb265)
+![image](https://github.com/HoomGroomA-5/.github/assets/119854906/a957cfc3-b790-4408-a52f-abdcdf41b139)
+![image](https://github.com/HoomGroomA-5/.github/assets/119854906/816286a4-ec89-4f69-a024-c294c4c78ccd)
+![image](https://github.com/HoomGroomA-5/.github/assets/119854906/64163c3d-8b2f-4945-86a1-7c43dd5b2f3b)
+![image](https://github.com/HoomGroomA-5/.github/assets/119854906/fa4f9960-ea70-4811-99b1-341994b0aca9)
