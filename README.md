@@ -89,4 +89,9 @@ Menerapkan enkripsi data baik saat transit maupun saat tersimpan, menggunakan OA
 ### 5. Resiko ketergantungan cloud GCP
 Memiliki strategi fallback dan disaster recovery, serta melakukan backup secara rutin dan monitoring kesehatan layanan pihak ketiga.
 
+# Alasan menggunakan teknik risk storming:
+Risk Storming merupakan sebuah teknik yang dilakukan secara kolaboratif di lingkungan perancangan software architecture. Teknik ini melalui beberapa tahapan yaitu identifikasi resiko, kategorisasi resiko, penilaian, mitigasi, dan tindak lanjut resiko. Teknik ini melibatkan berbagai aspek tim yang beragam agar bisa melihat lingkup resiko secara luas.
+
+
+
 
